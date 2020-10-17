@@ -8,7 +8,7 @@ In this lab, you'll get some hands-on practice creating and using lambda functio
 ## Objectives
 In this lab you will: 
 * Create lambda functions to use as arguments of other functions   
-* Use the `.map()` or `.apply()` method to apply a function to a pandas series or DataFrame
+* Use the `.map()` and `.apply()` methods to apply a function to a pandas series or DataFrame
 
 ## Lambda Functions
 
